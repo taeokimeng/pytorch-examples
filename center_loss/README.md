@@ -1,4 +1,5 @@
 # Center Loss
+Pytorch Center Loss implementation is based on [pytorch-center-loss](https://github.com/KaiyangZhou/pytorch-center-loss).
 
 ## A Toy Example
 Dataset: MNIST <br>
